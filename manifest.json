@@ -1,0 +1,16 @@
+{
+  "name": "Group Each Layer",
+  "id": "1175061815094580155",
+  "api": "1.0.0",
+  "main": "code.js",
+  "relaunchButtons": [
+    {
+      "command": "relaunch",
+      "name": "Group each layer",
+      "multipleSelection": true
+    }
+  ],
+  "editorType": [
+    "figma"
+  ]
+}
